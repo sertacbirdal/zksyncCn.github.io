@@ -1,4 +1,4 @@
-# STATIC
+## STATIC
 
 **This directory is optional, you can delete it if you don't want to use it.**
 
